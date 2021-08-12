@@ -45,7 +45,7 @@ export default class App extends React.Component {
             borderRadius: 15,
             width: 200,
             height: 50,
-            backgroundColor: 'skyblue',
+            backgroundColor: 'cyan',
             justifyContent: 'center',
             alignItems: 'center',
             alignSelf: 'center',
